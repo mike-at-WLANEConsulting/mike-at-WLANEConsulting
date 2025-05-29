@@ -1,0 +1,450 @@
+[
+  {
+    "id": 380723081087716,
+    "create_time": "2019-09-03T12:24:29.000+0000",
+    "update_time": "2023-03-16T12:00:19.000+0000",
+    "org_id": 0,
+    "name": "Extreme Networks",
+    "unique_name": "Extreme Networks",
+    "type": "Site_Group",
+    "address": "",
+    "children": [
+      {
+        "id": 380723081126998,
+        "create_time": "2025-01-31T08:31:04.000+0000",
+        "update_time": "2025-01-31T08:31:04.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "berndland",
+        "unique_name": "berndland",
+        "type": "Site_Group",
+        "address": "",
+        "children": []
+      },
+      {
+        "id": 380723081126986,
+        "create_time": "2025-01-21T10:09:37.000+0000",
+        "update_time": "2025-01-21T10:09:37.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "World",
+        "unique_name": "World",
+        "type": "Site_Group",
+        "address": "",
+        "children": [
+          {
+            "id": 380723081127001,
+            "create_time": "2025-01-21T10:10:43.000+0000",
+            "update_time": "2025-01-21T10:10:43.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081126986,
+            "name": "04 Rest of World",
+            "unique_name": "04 Rest of World",
+            "type": "Site_Group",
+            "address": "",
+            "children": [
+              {
+                "id": 380723081127016,
+                "create_time": "2025-01-21T10:12:50.000+0000",
+                "update_time": "2025-01-21T10:12:50.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081127001,
+                "name": "Australia",
+                "unique_name": "Australia",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127010,
+                "create_time": "2025-01-21T10:12:42.000+0000",
+                "update_time": "2025-01-21T10:12:42.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081127001,
+                "name": "Myanmar",
+                "unique_name": "Myanmar",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127012,
+                "create_time": "2025-01-21T10:12:35.000+0000",
+                "update_time": "2025-01-21T10:12:35.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081127001,
+                "name": "Thailand",
+                "unique_name": "Thailand",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 380723081126996,
+            "create_time": "2025-01-21T10:10:32.000+0000",
+            "update_time": "2025-01-21T10:10:32.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081126986,
+            "name": "03 South America",
+            "unique_name": "03 South America",
+            "type": "Site_Group",
+            "address": "",
+            "children": [
+              {
+                "id": 380723081127009,
+                "create_time": "2025-01-21T10:12:26.000+0000",
+                "update_time": "2025-01-21T10:12:26.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126996,
+                "name": "Chile",
+                "unique_name": "Chile",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127008,
+                "create_time": "2025-01-21T10:12:06.000+0000",
+                "update_time": "2025-01-21T10:12:06.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126996,
+                "name": "Argentina",
+                "unique_name": "Argentina",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 380723081126991,
+            "create_time": "2025-01-21T10:10:19.000+0000",
+            "update_time": "2025-01-21T10:10:19.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081126986,
+            "name": "02 North America",
+            "unique_name": "02 North America",
+            "type": "Site_Group",
+            "address": "",
+            "children": [
+              {
+                "id": 380723081126992,
+                "create_time": "2025-01-21T10:11:42.000+0000",
+                "update_time": "2025-01-21T10:11:42.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126991,
+                "name": "USA",
+                "unique_name": "USA",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127011,
+                "create_time": "2025-01-21T10:11:32.000+0000",
+                "update_time": "2025-01-21T10:11:32.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126991,
+                "name": "Canada",
+                "unique_name": "Canada",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 380723081126930,
+            "create_time": "2025-01-21T10:10:01.000+0000",
+            "update_time": "2025-01-21T10:10:01.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081126986,
+            "name": "01 Europe",
+            "unique_name": "01 Europe",
+            "type": "Site_Group",
+            "address": "",
+            "children": [
+              {
+                "id": 380723081127002,
+                "create_time": "2025-01-21T10:11:23.000+0000",
+                "update_time": "2025-01-21T10:11:23.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126930,
+                "name": "Czech Republic",
+                "unique_name": "Czech Republic",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127007,
+                "create_time": "2025-01-21T10:11:12.000+0000",
+                "update_time": "2025-01-21T10:11:12.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126930,
+                "name": "France",
+                "unique_name": "France",
+                "type": "Site_Group",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081127006,
+                "create_time": "2025-01-21T10:11:03.000+0000",
+                "update_time": "2025-01-21T10:11:03.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081126930,
+                "name": "Germany",
+                "unique_name": "Germany",
+                "type": "Site_Group",
+                "address": "",
+                "children": [
+                  {
+                    "id": 380723081127003,
+                    "create_time": "2025-01-21T10:13:22.000+0000",
+                    "update_time": "2025-01-21T10:15:51.000+0000",
+                    "org_id": 0,
+                    "parent_id": 380723081127006,
+                    "name": "Kassel",
+                    "unique_name": "Kassel",
+                    "type": "SITE",
+                    "address": "Anna-Essinger Str 21, Blaustein, 89134",
+                    "children": [
+                      {
+                        "id": 380723081126987,
+                        "create_time": "2025-01-21T10:16:06.000+0000",
+                        "update_time": "2025-01-21T10:16:06.000+0000",
+                        "org_id": 0,
+                        "parent_id": 380723081127003,
+                        "name": "Bldg1",
+                        "unique_name": "Kassel|Bldg1",
+                        "type": "BUILDING",
+                        "address": "Mozart Str 3, Feldkirchen, 85622",
+                        "children": [
+                          {
+                            "id": 380723081127013,
+                            "create_time": "2025-01-21T10:17:20.000+0000",
+                            "update_time": "2025-01-21T10:17:20.000+0000",
+                            "org_id": 0,
+                            "parent_id": 380723081126987,
+                            "name": "1st",
+                            "unique_name": "Kassel|Bldg1|1st",
+                            "type": "FLOOR",
+                            "address": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 380723081124009,
+        "create_time": "2024-03-07T17:31:05.000+0000",
+        "update_time": "2024-03-07T17:31:05.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "Casa - Mike",
+        "unique_name": "Casa - Mike",
+        "type": "SITE",
+        "address": "2 Av. Mare Nostrum, Benalm\u00e1dena, Andaluc\u00eda, 29631",
+        "children": []
+      },
+      {
+        "id": 380723081117361,
+        "create_time": "2022-05-23T21:02:00.000+0000",
+        "update_time": "2023-10-13T00:00:37.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "XL_test",
+        "unique_name": "XL_test",
+        "type": "SITE",
+        "address": "",
+        "children": [
+          {
+            "id": 380723081117366,
+            "create_time": "2022-05-23T21:02:01.000+0000",
+            "update_time": "2022-05-24T00:00:21.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081117361,
+            "name": "Building 1",
+            "unique_name": "Building 1",
+            "type": "BUILDING",
+            "address": "09.12.2021",
+            "children": [
+              {
+                "id": 380723081117367,
+                "create_time": "2022-05-23T21:02:02.000+0000",
+                "update_time": "2022-05-24T00:00:21.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081117366,
+                "name": "1G",
+                "unique_name": "Building 1|1G",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081117364,
+                "create_time": "2022-05-23T21:02:01.000+0000",
+                "update_time": "2022-05-24T00:00:21.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081117366,
+                "name": "EG",
+                "unique_name": "Building 1|EG",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 380723081093842,
+        "create_time": "2020-10-29T19:48:55.000+0000",
+        "update_time": "2023-10-12T21:29:50.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "Casa",
+        "unique_name": "Casa",
+        "type": "SITE",
+        "address": "Avenida Mare Nostrum 2, Benalmadena, 1",
+        "children": [
+          {
+            "id": 380723081093872,
+            "create_time": "2020-10-29T19:52:48.000+0000",
+            "update_time": "2020-11-06T18:51:01.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081093842,
+            "name": "Bloque 2, Portal2",
+            "unique_name": "Bloque 2, Portal2",
+            "type": "BUILDING",
+            "address": ", , 1",
+            "children": [
+              {
+                "id": 380723081093845,
+                "create_time": "2020-10-29T19:55:50.000+0000",
+                "update_time": "2022-10-25T18:00:12.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081093872,
+                "name": "Floor 7",
+                "unique_name": "Bloque 2, Portal2|Floor 7",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081094192,
+                "create_time": "2020-11-06T18:39:36.000+0000",
+                "update_time": "2020-11-06T21:00:08.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081093872,
+                "name": "Terasse",
+                "unique_name": "Bloque 2, Portal2|Terasse",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 380723081093685,
+        "create_time": "2020-10-01T17:49:46.000+0000",
+        "update_time": "2023-10-13T00:00:37.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "LutzTest",
+        "unique_name": "LutzTest",
+        "type": "SITE",
+        "address": ", , 1",
+        "children": [
+          {
+            "id": 380723081093708,
+            "create_time": "2020-10-01T17:50:30.000+0000",
+            "update_time": "2020-10-01T17:50:30.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081093685,
+            "name": "HQ",
+            "unique_name": "HQ",
+            "type": "BUILDING",
+            "address": ", , 1",
+            "children": [
+              {
+                "id": 380723081106537,
+                "create_time": "2021-11-15T15:07:41.000+0000",
+                "update_time": "2021-11-16T12:00:13.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081093708,
+                "name": "1st",
+                "unique_name": "HQ|1st",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              },
+              {
+                "id": 380723081093709,
+                "create_time": "2020-10-01T17:50:52.000+0000",
+                "update_time": "2020-10-01T18:00:07.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081093708,
+                "name": "Ground",
+                "unique_name": "HQ|Ground",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 380723081087718,
+        "create_time": "2019-09-03T12:24:29.000+0000",
+        "update_time": "2023-10-12T21:29:50.000+0000",
+        "org_id": 0,
+        "parent_id": 380723081087716,
+        "name": "Ulm, BW",
+        "unique_name": "Ulm, BW",
+        "type": "SITE",
+        "address": "Weihung Str 39, Ulm, BW",
+        "children": [
+          {
+            "id": 380723081087720,
+            "create_time": "2019-09-03T12:24:29.000+0000",
+            "update_time": "2019-09-03T12:24:46.000+0000",
+            "org_id": 0,
+            "parent_id": 380723081087718,
+            "name": "Weihung Str 39",
+            "unique_name": "Weihung Str 39",
+            "type": "BUILDING",
+            "address": "Weihung Str 39, Ulm, BW",
+            "children": [
+              {
+                "id": 380723081087721,
+                "create_time": "2019-09-03T12:24:29.000+0000",
+                "update_time": "2020-04-13T09:00:13.000+0000",
+                "org_id": 0,
+                "parent_id": 380723081087720,
+                "name": "Floor 1",
+                "unique_name": "Weihung Str 39|Floor 1",
+                "type": "FLOOR",
+                "address": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+# Cursor Project Rules File
+
+version = 1
+
+# Python version
+language: python
+python:
+  version: "3.12"
+
+# Linting Rules
+lint:
+  enabled: true
+  rules:
+    <!-- - no-unused-variables -->
+    <!-- - type-annotations -->
+    - flake8
+    - black
+    - isort
+  style: black
+
+# Type Checking
+typechecking:
+  enabled: true
+  tool: mypy
+  strict: true
+  ignore_missing_imports: true
+  disallow_untyped_defs: true
+  disallow_incomplete_defs: true
+  warn_unused_ignores: true
+  warn_return_any: true
+
+# Formatting
+formatting:
+  enabled: true
+  tool: black
+  line_length: 88
+  skip_string_normalization: false
+
+# Documentation
+docstrings:
+  style: google
+  required: true
+
+# Testing
+tests:
+  <!-- required: true -->
+  tool: pytest
+  coverage_threshold: 80
+
+<!-- # Security Best Practices
+security:
+  enforce: true
+  checks:
+    - no-hardcoded-credentials
+    - validate-ssl-certificates
+    - secure-http-requests -->
+
+# Project-specific rules
+networking:
+  best_practices:
+    - comment-api-endpoints-clearly
+    - avoid-exposing-secrets
+    - follow-authentication-best-practices
+    <!-- - implement-rate-limiting -->
+    - use-https-always
+
+# General
+comments:
+  clarity: high
+  todo-tag: true
+  fixme-tag: true
+
+# Cursor IDE Features
+cursor:
+  ai-assist: true
+  code-suggestions: true
+  auto-explain: true
