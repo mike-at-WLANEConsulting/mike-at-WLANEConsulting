@@ -1,0 +1,1964 @@
+{
+  "page": 1,
+  "count": 35,
+  "total_pages": 1,
+  "total_count": 35,
+  "data": [
+    {
+      "id": 380723081087996,
+      "create_time": "2019-09-05T17:26:38.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "06301904130809",
+      "mac_address": "348584271340",
+      "device_function": "AP",
+      "product_type": "AP_630",
+      "hostname": "AP630-271340",
+      "ip_address": "192.168.1.205",
+      "software_version": "10.3.4.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2022-02-21T22:59:13.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.3r4 build-262300",
+      "location_id": 380723081094192,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081094192,
+          "name": "Terasse"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "5(interface name)",
+          "system_id": "0004:96a2:2611(mac address)",
+          "system_name": "x442-2",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081092156,
+      "create_time": "2019-11-07T00:22:43.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "02301407111659",
+      "mac_address": "9C5D12393E40",
+      "device_function": "AP",
+      "product_type": "AP_230",
+      "hostname": "AP230_393e40",
+      "ip_address": "192.168.255.132",
+      "software_version": "10.0.8.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-11-12T08:52:54.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.255.129",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.0r8 build-236132",
+      "locations": [],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "12(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "X440G2-12p-10G4",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081092282,
+      "create_time": "2019-11-08T22:56:57.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "60018071200299",
+      "mac_address": "F4EAB52C5780",
+      "device_function": "ROUTER",
+      "product_type": "XR600P",
+      "hostname": "XR601-Voda",
+      "ip_address": "192.168.255.129",
+      "software_version": "10.0.10.1",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2021-05-31T11:01:55.000+0000",
+      "network_policy_name": "Routers1",
+      "network_policy_id": 380723081092298,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "192.168.0.1",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.0r10a build-252955",
+      "locations": [],
+      "country_code": 840,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "7(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "x442-1",
+          "interface_name": "eth2"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081093196,
+      "create_time": "2020-05-27T15:47:28.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "22081603250093",
+      "mac_address": "B87CF20102BC",
+      "device_function": "SWITCH",
+      "product_type": "SR_2208P",
+      "hostname": "AH-Switch",
+      "ip_address": "192.168.255.169",
+      "software_version": "1.0.1.28",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-10-29T16:00:12.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "1.0.1.28",
+      "location_id": 380723081087721,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081087718,
+          "name": "Ulm, BW"
+        },
+        {
+          "id": 380723081087720,
+          "name": "Weihung Str 39"
+        },
+        {
+          "id": 380723081087721,
+          "name": "Floor 1"
+        }
+      ],
+      "country_code": 840,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "eth4",
+          "system_id": "F4:EA:B5:2C:57:80",
+          "system_name": "MikesXR600-2c5780",
+          "interface_name": "1/0/1"
+        }
+      ],
+      "system_up_time": 13641000,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081093617,
+      "create_time": "2020-09-10T11:33:05.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "03052004290343",
+      "mac_address": "BCF3104E05C0",
+      "device_function": "AP",
+      "product_type": "AP_305C",
+      "hostname": "AP305C-4e05c0",
+      "ip_address": "192.168.255.179",
+      "software_version": "10.2.2.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-11-12T08:53:54.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.255.129",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.2r2 build-248010",
+      "locations": [],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "8(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "X440G2-12p-10G4",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081093679,
+      "create_time": "2020-10-01T17:40:53.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "14344523200014",
+      "mac_address": "4083DE85FA67",
+      "device_function": "AP",
+      "product_type": "NX5500",
+      "hostname": "nx5500-85FA67",
+      "ip_address": "10.254.152.201",
+      "software_version": "7.4.1.0-016R",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "default_gateway": "",
+      "ipv6_address": "N/A",
+      "simulated": false,
+      "display_version": "7.4.1.0-016R",
+      "location_id": 380723081093709,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093685,
+          "name": "LutzTest"
+        },
+        {
+          "id": 380723081093708,
+          "name": "HQ"
+        },
+        {
+          "id": 380723081093709,
+          "name": "Ground"
+        }
+      ],
+      "country_code": 840,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1605169944318,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081093836,
+      "create_time": "2020-10-29T19:42:49.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "60018082100085",
+      "mac_address": "F4EAB52CA000",
+      "device_function": "ROUTER",
+      "product_type": "XR600P",
+      "hostname": "XR602-Movistar",
+      "ip_address": "192.168.254.129",
+      "software_version": "10.0.10.1",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2021-05-31T11:02:34.000+0000",
+      "network_policy_name": "Routers2",
+      "network_policy_id": 380723081093877,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.0r10a build-252955",
+      "locations": [],
+      "country_code": 840,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "3(interface name)",
+          "system_id": "0004:96a2:2611(mac address)",
+          "system_name": "x442-2",
+          "interface_name": "eth2"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081094008,
+      "create_time": "2020-11-04T16:21:02.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "03052005111853",
+      "mac_address": "BCF31053DE00",
+      "device_function": "AP",
+      "product_type": "AP_305C",
+      "hostname": "AP305C-53de00",
+      "ip_address": "192.168.254.3",
+      "software_version": "10.1.3.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-11-06T21:33:59.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.254.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.1r3 build-238910",
+      "locations": [],
+      "country_code": 410,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "2(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "X440G2-12p-10G4",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081094237,
+      "create_time": "2020-11-09T15:28:15.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "2018G-02131",
+      "mac_address": "000496E1EDEC",
+      "device_function": "SWITCH",
+      "product_type": "X435_8P_4S",
+      "hostname": "X435-8P-4S",
+      "ip_address": "192.168.255.136",
+      "software_version": "31.1.1.3",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-12-23T22:41:14.000+0000",
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "31.1.1.3",
+      "locations": [],
+      "country_code": 840,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "7",
+          "system_id": "00:04:96:A2:26:11",
+          "system_name": "X440G2-12p-10G4",
+          "interface_name": "8"
+        }
+      ],
+      "system_up_time": 1607956575123,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081094307,
+      "create_time": "2020-11-12T08:43:07.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "04102007200078",
+      "mac_address": "BCF310777A40",
+      "device_function": "AP",
+      "product_type": "AP_410C",
+      "hostname": "AP410C-Office",
+      "ip_address": "192.168.1.204",
+      "software_version": "10.4.6.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2022-06-27T17:40:09.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.4r6 build-272960",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "11(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "x442-1",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081094312,
+      "create_time": "2020-11-12T08:46:56.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "03052008070035",
+      "mac_address": "BCF31085F240",
+      "device_function": "AP",
+      "product_type": "AP_305C",
+      "hostname": "AP305C-Kitchen",
+      "ip_address": "192.168.1.203",
+      "software_version": "10.4.6.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2022-06-27T11:10:15.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.4r6 build-272960",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "1(interface name)",
+          "system_id": "0004:969a:e36b(mac address)",
+          "system_name": "x442-1",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081094349,
+      "create_time": "2020-11-12T08:44:09.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "04102007200069",
+      "mac_address": "BCF310777800",
+      "device_function": "AP",
+      "product_type": "AP_410C",
+      "hostname": "AP410C-Patio",
+      "ip_address": "192.168.0.23",
+      "software_version": "10.6.4.0",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-11-16T00:45:02.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.6r4 build-dcfd27b",
+      "location_id": 380723081117364,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117364,
+          "name": "EG"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "5(interface name)",
+          "system_id": "0004:969a:e375(mac address)",
+          "system_name": "x442-0",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081094941,
+      "create_time": "2020-12-15T13:15:44.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "05501708150062",
+      "mac_address": "B87CF254C1C0",
+      "device_function": "AP",
+      "product_type": "AP_550",
+      "hostname": "AH-54c1c0",
+      "ip_address": "192.168.255.135",
+      "software_version": "10.0.9.2",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2020-12-16T14:03:20.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.128",
+      "default_gateway": "192.168.255.129",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.0r9b build-248413",
+      "locations": [],
+      "country_code": 276,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "6(interface name)",
+          "system_id": "0004:96a2:2611(mac address)",
+          "system_name": "X440G2-12p-10G4",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081095261,
+      "create_time": "2021-01-20T15:58:42.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "5CE38B8FDB38C44F",
+      "mac_address": "000C29F0A2FA",
+      "device_function": "AP",
+      "product_type": "WiNG_AP",
+      "hostname": "Blo-Flo-C44F",
+      "device_admin_state": "NEW",
+      "connected": false,
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "default_gateway": "",
+      "simulated": false,
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081098008,
+      "create_time": "2021-05-19T16:53:15.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "2110E-C1B4D",
+      "mac_address": "000C29786D84",
+      "device_function": "AP",
+      "product_type": "WiNG_AP",
+      "hostname": "Blo-Flo-1B4D",
+      "device_admin_state": "NEW",
+      "connected": false,
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "default_gateway": "",
+      "simulated": false,
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081101936,
+      "create_time": "2021-08-24T14:24:43.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "03022012080229",
+      "mac_address": "40882F57ECC0",
+      "device_function": "AP",
+      "product_type": "AP_302W",
+      "hostname": "AH-57ecc0",
+      "ip_address": "192.168.1.80",
+      "software_version": "10.3.4.0",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-07-14T13:45:41.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.3r4 build-262300",
+      "location_id": 380723081106537,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093685,
+          "name": "LutzTest"
+        },
+        {
+          "id": 380723081093708,
+          "name": "HQ"
+        },
+        {
+          "id": 380723081106537,
+          "name": "1st"
+        }
+      ],
+      "country_code": 578,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "16(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081102279,
+      "create_time": "2021-09-08T20:03:27.000+0000",
+      "update_time": "2025-05-29T13:08:33.000+0000",
+      "org_id": 0,
+      "serial_number": "24602004160117",
+      "mac_address": "BCF3103AB680",
+      "device_function": "AP",
+      "product_type": "AP_460C",
+      "hostname": "AP460-Terrassa",
+      "ip_address": "192.168.0.17",
+      "software_version": "10.7.5.2",
+      "device_admin_state": "MANAGED",
+      "connected": true,
+      "last_connect_time": "2025-05-29T13:08:23.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5b build-c6be9b0",
+      "active_clients": 1,
+      "location_id": 380723081094192,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081094192,
+          "name": "Terasse"
+        }
+      ],
+      "country_code": 724,
+      "description": "xxx",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "3(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 1747165261733,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081119076,
+      "create_time": "2022-06-26T13:31:41.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "1608N-40570",
+      "mac_address": "0004969AE375",
+      "device_function": "SWITCH",
+      "product_type": "X440_G2_12p_10_G4",
+      "hostname": "x442-0",
+      "ip_address": "192.168.1.150",
+      "software_version": "32.5.1.5",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2024-04-02T12:42:17.000+0000",
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "32.5.1.5",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1705994325316,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081119084,
+      "create_time": "2022-06-27T10:20:19.000+0000",
+      "update_time": "2025-04-29T10:04:31.000+0000",
+      "org_id": 0,
+      "serial_number": "64002201210034",
+      "mac_address": "B027CF7FDAC0",
+      "device_function": "AP",
+      "product_type": "AP_4000U",
+      "hostname": "AP4kU-Kitchen",
+      "ip_address": "192.168.0.15",
+      "software_version": "10.7.5.2",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2025-04-29T21:20:01.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5b build-bc7f9e5",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 724,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "1(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081119146,
+      "create_time": "2022-06-26T13:40:26.000+0000",
+      "update_time": "2024-10-15T11:49:28.000+0000",
+      "org_id": 0,
+      "serial_number": "1608N-40568",
+      "mac_address": "0004969AE36B",
+      "device_function": "SWITCH",
+      "product_type": "X440_G2_12p_10_G4",
+      "hostname": "x442-1",
+      "ip_address": "192.168.1.151",
+      "software_version": "32.7.1.9",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2024-10-15T11:48:08.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "simulated": false,
+      "display_version": "32.7.1.9",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "13",
+          "system_id": "F4:CE:48:A1:AC:00",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "12"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081119178,
+      "create_time": "2022-06-27T10:04:18.000+0000",
+      "update_time": "2025-04-29T10:04:31.000+0000",
+      "org_id": 0,
+      "serial_number": "64002201210042",
+      "mac_address": "B027CF7FDCC0",
+      "device_function": "AP",
+      "product_type": "AP_4000U",
+      "hostname": "AP4kU-Patio",
+      "ip_address": "192.168.0.16",
+      "software_version": "10.7.5.2",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2025-04-29T21:20:01.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5b build-bc7f9e5",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 724,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "5(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": ["IMG_0342.png"],
+      "visible": true
+    },
+    {
+      "id": 380723081119270,
+      "create_time": "2022-06-27T11:54:39.000+0000",
+      "update_time": "2025-04-29T10:04:37.000+0000",
+      "org_id": 0,
+      "serial_number": "64002201210014",
+      "mac_address": "B027CF7FD5C0",
+      "device_function": "AP",
+      "product_type": "AP_4000U",
+      "hostname": "AP4kU-Office",
+      "ip_address": "192.168.0.18",
+      "software_version": "10.7.5.2",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2025-04-29T16:53:51.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5b build-bc7f9e5",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 724,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "12(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081119646,
+      "create_time": "2022-09-14T11:10:20.000+0000",
+      "update_time": "2025-05-29T13:09:04.000+0000",
+      "org_id": 0,
+      "serial_number": "WM012209W-31340",
+      "service_tag": "WM012209W-31340",
+      "mac_address": "B027CF804AC0",
+      "device_function": "AP",
+      "product_type": "AP_5010U",
+      "hostname": "AP5k-Patio",
+      "ip_address": "192.168.0.39",
+      "software_version": "10.7.5.3",
+      "device_admin_state": "MANAGED",
+      "connected": true,
+      "last_connect_time": "2025-05-29T13:38:11.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5c build-7839c2a",
+      "active_clients": 3,
+      "location_id": 380723081117367,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117367,
+          "name": "1G"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "5(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 1747165363585,
+      "config_mismatch": false,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081120344,
+      "create_time": "2023-01-09T23:51:19.000+0000",
+      "update_time": "2024-10-08T22:32:29.000+0000",
+      "org_id": 0,
+      "serial_number": "88644~000C2945ED46",
+      "mac_address": "000C2945ED46",
+      "product_type": "Virtual Access Control Engine IA-V",
+      "hostname": "extr-ctrl",
+      "ip_address": "192.168.0.11",
+      "software_version": "22.9.12.14",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-02-07T01:17:35.000+0000",
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "22.9.12.14",
+      "locations": [],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1673308478583,
+      "config_mismatch": false,
+      "managed_by": "XIQ_SE",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081120346,
+      "create_time": "2023-01-09T23:33:07.000+0000",
+      "update_time": "2024-10-08T22:32:29.000+0000",
+      "org_id": 0,
+      "serial_number": "XIQSE-FB329F708AD7431993AA02F78A23294A",
+      "mac_address": "000C291EDF60",
+      "product_type": "XIQ_SE",
+      "hostname": "192.168.0.10",
+      "ip_address": "192.168.0.10",
+      "software_version": "22.9.12.14",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-02-07T01:17:35.000+0000",
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "22.9.12.14",
+      "locations": [],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1673306874192,
+      "config_mismatch": false,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": false
+    },
+    {
+      "id": 380723081120352,
+      "create_time": "2023-01-12T15:38:05.000+0000",
+      "update_time": "2024-06-05T21:40:27.000+0000",
+      "org_id": 0,
+      "serial_number": "34602203170339",
+      "mac_address": "90B832EA72C0",
+      "device_function": "AP",
+      "product_type": "AP_460S6C",
+      "hostname": "TestPanel60_01",
+      "ip_address": "192.168.0.14",
+      "software_version": "10.5.3.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2023-01-14T13:28:16.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.5r3 build-278650",
+      "location_id": 380723081094192,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081094192,
+          "name": "Terasse"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "1(interface name)",
+          "system_id": "0004:969c:4bab(mac address)",
+          "system_name": "X430-8p",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081120497,
+      "create_time": "2023-01-18T21:29:07.000+0000",
+      "update_time": "2025-05-29T15:01:11.000+0000",
+      "org_id": 0,
+      "serial_number": "TB052139K-H0234",
+      "mac_address": "F4CE48A1AC00",
+      "device_function": "SWITCH",
+      "product_type": "SwitchEngine_5320_16P_4XE",
+      "hostname": "5320-16P-4XE-SwitchEngine",
+      "ip_address": "192.168.0.11",
+      "software_version": "33.2.1.12",
+      "device_admin_state": "MANAGED",
+      "connected": true,
+      "last_connect_time": "2025-05-29T12:10:45.000+0000",
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "simulated": false,
+      "display_version": "33.2.1.12",
+      "active_clients": 13,
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "mgt0",
+          "system_id": "B0:27:CF:80:39:C0",
+          "system_name": "AP5k_Office",
+          "interface_name": "12"
+        },
+        {
+          "port_id": "mgt0",
+          "system_id": "BC:F3:10:3A:B6:80",
+          "system_name": "AP460-Terrassa",
+          "interface_name": "3"
+        },
+        {
+          "port_id": "7",
+          "system_id": "00:04:96:E1:ED:EC",
+          "system_name": "X435-8P-4S",
+          "interface_name": "8"
+        },
+        {
+          "port_id": "5",
+          "system_id": "0C:97:5F:57:5B:70",
+          "system_name": "VN33KYB8GD",
+          "interface_name": "13"
+        },
+        {
+          "port_id": "mgt0",
+          "system_id": "B0:27:CF:80:4A:C0",
+          "system_name": "AP5k-Patio",
+          "interface_name": "5"
+        },
+        {
+          "port_id": "mgt0",
+          "system_id": "B0:27:CF:7F:DA:C0",
+          "system_name": "AP4kU-Kitchen",
+          "interface_name": "1"
+        }
+      ],
+      "system_up_time": 1745870043416,
+      "config_mismatch": false,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081121891,
+      "create_time": "2023-09-19T12:16:25.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "HA012235Y-10133",
+      "service_tag": "HA012235Y-10133",
+      "mac_address": "241FBD900300",
+      "device_function": "AP",
+      "product_type": "AP_3000",
+      "hostname": "AP3k-Wellfare",
+      "ip_address": "192.168.1.45",
+      "software_version": "10.6.4.0",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-11-28T07:30:06.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.6r4 build-604864c",
+      "location_id": 380723081117367,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117367,
+          "name": "1G"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "4(interface name)",
+          "system_id": "0004:96a2:2611(mac address)",
+          "system_name": "x442-2",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122215,
+      "create_time": "2023-11-14T23:29:52.000+0000",
+      "update_time": "2025-05-29T13:08:57.000+0000",
+      "org_id": 0,
+      "serial_number": "WM012209W-30660",
+      "service_tag": "WM012209W-30660",
+      "mac_address": "B027CF8039C0",
+      "device_function": "AP",
+      "product_type": "AP_5010U",
+      "hostname": "AP5k_Office",
+      "ip_address": "192.168.0.40",
+      "software_version": "10.7.5.3",
+      "device_admin_state": "MANAGED",
+      "connected": true,
+      "last_connect_time": "2025-05-29T13:08:53.000+0000",
+      "network_policy_name": "HomeNet",
+      "network_policy_id": 380723081131316,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.0.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "IQ Engine 10.7r5c build-7839c2a",
+      "active_clients": 5,
+      "location_id": 380723081117367,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117367,
+          "name": "1G"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "12(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 1747177231525,
+      "config_mismatch": false,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122218,
+      "create_time": "2023-11-14T23:07:07.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "HA012235Y-10131",
+      "service_tag": "HA012235Y-10131",
+      "mac_address": "241FBD900280",
+      "device_function": "AP",
+      "product_type": "AP_3000",
+      "hostname": "AP3k-DEPV",
+      "ip_address": "192.168.1.50",
+      "software_version": "10.6.4.0",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-11-28T07:30:11.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "display_version": "HiveOS 10.6r4 build-604864c",
+      "location_id": 380723081117367,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117367,
+          "name": "1G"
+        }
+      ],
+      "country_code": 724,
+      "description": "",
+      "lldp_cdp_infos": [
+        {
+          "port_id": "3(interface name)",
+          "system_id": "0004:96a2:2611(mac address)",
+          "system_name": "x442-2",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 0,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122224,
+      "create_time": "2023-11-14T23:08:10.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "1815N-40151",
+      "mac_address": "000496A22611",
+      "device_function": "SWITCH",
+      "product_type": "X440_G2_12p_10_G4",
+      "hostname": "x442-2",
+      "ip_address": "192.168.1.152",
+      "software_version": "32.5.1.5",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "last_connect_time": "2023-12-19T11:34:26.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "32.5.1.5",
+      "location_id": 380723081117367,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117367,
+          "name": "1G"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "8",
+          "system_id": "00:04:96:9A:E3:75",
+          "system_name": "x442-0",
+          "interface_name": "12"
+        }
+      ],
+      "system_up_time": 1702887583266,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122306,
+      "create_time": "2023-11-14T23:52:09.000+0000",
+      "update_time": "2024-08-22T12:10:28.000+0000",
+      "org_id": 0,
+      "serial_number": "04102007200094",
+      "mac_address": "BCF310777E40",
+      "device_function": "AP",
+      "product_type": "AP_410C",
+      "hostname": "Bui-1G-0094",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2024-08-22T10:52:56.000+0000",
+      "network_policy_name": "",
+      "network_policy_id": 0,
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "ipv6_address": "0:0:0:0:0:0:0:0",
+      "ipv6_netmask": 0,
+      "simulated": false,
+      "location_id": 380723081117364,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081117361,
+          "name": "XL_test"
+        },
+        {
+          "id": 380723081117366,
+          "name": "Building 1"
+        },
+        {
+          "id": 380723081117364,
+          "name": "EG"
+        }
+      ],
+      "country_code": 724,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "4(interface name)",
+          "system_id": "f4ce:48a1:ac00(mac address)",
+          "system_name": "5320-16P-4XE-SwitchEngine",
+          "interface_name": "eth0"
+        }
+      ],
+      "system_up_time": 1724323848230,
+      "config_mismatch": true,
+      "managed_by": "",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122713,
+      "create_time": "2023-11-19T21:04:02.000+0000",
+      "update_time": "2025-04-28T20:04:15.000+0000",
+      "org_id": 0,
+      "serial_number": "AR042335Q-40061",
+      "mac_address": "E0A129F19000",
+      "device_function": "SWITCH",
+      "product_type": "FabricEngine_5720_48MXW",
+      "hostname": "5720-48MXW-FabricEngine",
+      "ip_address": "192.168.0.11",
+      "software_version": "9.0.0.0",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2024-03-22T11:51:23.000+0000",
+      "network_policy_name": "BOB_Kit",
+      "network_policy_id": 380723081124858,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "208.67.222.222",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "192.168.1.1",
+      "simulated": false,
+      "display_version": "9.0.0.0",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1711106610452,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081122720,
+      "create_time": "2023-11-20T19:28:25.000+0000",
+      "update_time": "2025-04-28T20:04:15.000+0000",
+      "org_id": 0,
+      "serial_number": "AR042335Q-40068",
+      "mac_address": "0C9B78A21C00",
+      "device_function": "SWITCH",
+      "product_type": "SwitchEngine_5720_48MXW",
+      "hostname": "5720-2",
+      "ip_address": "192.168.0.12",
+      "software_version": "32.5.1.5",
+      "device_admin_state": "UNMANAGED",
+      "connected": false,
+      "last_connect_time": "2023-11-27T14:47:23.000+0000",
+      "network_policy_name": "PoC_Labs",
+      "network_policy_id": 380723081106197,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "4.2.2.2",
+      "subnet_mask": "255.255.255.0",
+      "default_gateway": "",
+      "simulated": false,
+      "display_version": "32.5.1.5",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [
+        {
+          "port_id": "5",
+          "system_id": "00:04:96:9A:E3:75",
+          "system_name": "x442-0",
+          "interface_name": "48"
+        },
+        {
+          "port_id": "47",
+          "system_id": "E0:A1:29:F1:90:00",
+          "system_name": "5720-1",
+          "interface_name": "47"
+        }
+      ],
+      "system_up_time": 1701077913136,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    },
+    {
+      "id": 380723081123968,
+      "create_time": "2024-03-06T18:35:08.000+0000",
+      "update_time": "2024-05-13T22:50:40.000+0000",
+      "org_id": 0,
+      "serial_number": "1906P-70022",
+      "mac_address": "00900B9181A4",
+      "device_function": "AP",
+      "product_type": "E1120",
+      "hostname": "ECA-OG",
+      "ip_address": "192.168.10.1",
+      "software_version": "10.08.01.0027",
+      "device_admin_state": "MANAGED",
+      "connected": false,
+      "network_policy_name": "Corp-Mike",
+      "network_policy_id": 380723081092794,
+      "primary_ntp_server_address": "0.aerohive.pool.ntp.org",
+      "primary_dns_server_address": "80.58.61.254",
+      "default_gateway": "",
+      "ipv6_address": "N/A",
+      "simulated": false,
+      "display_version": "10.08.01.0027",
+      "location_id": 380723081093845,
+      "locations": [
+        {
+          "id": 380723081087716,
+          "name": "Extreme Networks"
+        },
+        {
+          "id": 380723081093842,
+          "name": "Casa"
+        },
+        {
+          "id": 380723081093872,
+          "name": "Bloque 2, Portal2"
+        },
+        {
+          "id": 380723081093845,
+          "name": "Floor 7"
+        }
+      ],
+      "country_code": 0,
+      "lldp_cdp_infos": [],
+      "system_up_time": 1709748438592,
+      "config_mismatch": true,
+      "managed_by": "XIQ",
+      "thread0_eui64": "",
+      "thread0_ext_mac": "",
+      "mgt_vlan": 1,
+      "images_names": [],
+      "visible": true
+    }
+  ]
+}
